@@ -1,0 +1,32 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+a {
+    text-align: center;
+}
+
+hr{
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    font-weight: 600;
+}
+
+#chicken,
+#beef,
+#sushi {
+  height: auto;
+  border: 15px solid white;
+  background-color: lightgrey;
+  
+}
+
+p{
+    text-transform: lowercase;
+    border: 3px solid black;
+}
